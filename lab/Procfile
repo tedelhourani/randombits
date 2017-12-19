@@ -1,0 +1,1 @@
+web: java $JVM_OPTS -cp target/uberjar/lab.jar clojure.main -m lab.core
